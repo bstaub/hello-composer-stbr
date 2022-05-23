@@ -1,0 +1,19 @@
+{
+    "name": "arcmedia/hello-composer-stbr",
+    "description": "Composer Testpacket von Bruno Staub",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "arcmedia\\HelloComposerStbr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Bruno Staub",
+            "email": "bruno.staub@arcmedia.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
